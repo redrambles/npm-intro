@@ -1,2 +1,3 @@
 #Ignore the following
 .npmrc
+/node_modules
